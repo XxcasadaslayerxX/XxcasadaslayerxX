@@ -1,6 +1,6 @@
 <img align="center" style="width: 100%; padding-bottom:30px" src="githubback.png" />
 
-<p align="center" style="font-size: 20px;">"I learn code to solve challenges"<p/>
+<p align="center" style="font-size: 20px;">"I learn code to solve problems"<p/>
 
 <div align="center">
 
