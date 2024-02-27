@@ -6,7 +6,7 @@
 
 ### Bem vindo ao meu perfil 😅
 
-[![Jvezim GitHub stats](https://github-readme-stats.vercel.app/api?username=XxcasadaslayerxX&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jvezim GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorDevMeta&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
